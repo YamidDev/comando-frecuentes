@@ -13,3 +13,9 @@ git clone 'url-Repositorio'
 ```
 git add .
 ```
+### Commit :hash:
+
+```
+git commit -m "titulo del commit" --message "Descripción del commit"
+```
+
