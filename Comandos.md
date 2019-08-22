@@ -19,3 +19,8 @@ git add .
 git commit -m "titulo del commit" --message "Descripción del commit"
 ```
 
+### Subir los cambios del commit :arrow_up_small:
+
+```
+git push
+```
