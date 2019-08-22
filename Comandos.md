@@ -24,3 +24,15 @@ git commit -m "titulo del commit" --message "Descripción del commit"
 ```
 git push
 ```
+
+### seleccionar una rama desde un repositorio remoto
+
+```
+git branch --set-upstream-to=origin/"nombre de la rama"
+```
+
+### Hacer un commit a una rama de un repositorio remoto
+
+```
+git push --set-upstream origin "nombre de la rama"
+```
